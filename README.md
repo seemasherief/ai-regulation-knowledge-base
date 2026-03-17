@@ -57,6 +57,10 @@ All documents are sourced from official government and international organizatio
 
 ---
 
+📖 [Read the full build log](BUILD_LOG.md) - step-by-step process, errors encountered and key learnings.
+
+---
+
 ## Run It Locally
 
 1. Clone the repository

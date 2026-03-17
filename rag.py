@@ -108,7 +108,7 @@ Question: {query}
 Provide a clear, accurate answer with specific citations to the source documents."""
 
     response = client.messages.create(
-        model="claude-opus-4-5",
+        model="claude-3-5-sonnet-20241022",
         max_tokens=1000,
         messages=[{"role": "user", "content": prompt}]
     )

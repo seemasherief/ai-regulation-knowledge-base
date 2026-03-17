@@ -92,7 +92,7 @@ This tool makes it easy to query official regulatory text directly, with citatio
 
 ## Author
 
-Seema Sherief — [GitHub](https://github.com/seemasherief)
+Seema Sherief - [GitHub](https://github.com/seemasherief)
 ```
 
 Save with **Cmd + S**. Then push it:

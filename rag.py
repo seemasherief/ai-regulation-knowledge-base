@@ -7,7 +7,9 @@ from sentence_transformers import SentenceTransformer
 import chromadb
 
 # Initialize
-client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+import streamlit as st
+api_key = st.secrets.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_API_KEY")
+client = anthropic.Anthropic(api_key=api_key)
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def chunk_text(text, chunk_size=500, overlap=50):

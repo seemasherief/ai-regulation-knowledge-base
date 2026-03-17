@@ -55,7 +55,7 @@ This flag is required on all modern Macs. It does not damage anything, it simply
 
 ---
 
-### Error 2 — PDF downloads were empty or too small
+### Error 2 - PDF downloads were empty or too small
 
 **Error observed:** 
 

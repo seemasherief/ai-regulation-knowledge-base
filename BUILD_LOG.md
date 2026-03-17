@@ -4,8 +4,8 @@
 
 *Built by Seema Sherief*
 
-🔗 **Live Demo:** [ai-regulation-kb.streamlit.app](https://ai-regulation-kb.streamlit.app)  
-📁 **GitHub:** [github.com/seemasherief/ai-regulation-knowledge-base](https://github.com/seemasherief/ai-regulation-knowledge-base)
+**Live Demo:** [ai-regulation-kb.streamlit.app](https://ai-regulation-kb.streamlit.app)  
+**GitHub:** [github.com/seemasherief/ai-regulation-knowledge-base](https://github.com/seemasherief/ai-regulation-knowledge-base)
 
 ---
 
